@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/arraytemplate.h
+
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/main.cpp
+iostream
+-
+arraytemplate.h
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/arraytemplate.h
+

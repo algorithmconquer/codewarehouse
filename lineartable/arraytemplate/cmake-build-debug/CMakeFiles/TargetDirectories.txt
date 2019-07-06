@@ -1,0 +1,3 @@
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/cmake-build-debug/CMakeFiles/arraytemplate.dir
