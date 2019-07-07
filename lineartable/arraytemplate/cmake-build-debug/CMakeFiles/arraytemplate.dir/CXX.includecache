@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/SeqList.h
+
 /Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/arraytemplate.h
 
 /Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/main.cpp
@@ -13,4 +15,6 @@ iostream
 -
 arraytemplate.h
 /Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/arraytemplate.h
+SeqList.h
+/Users/zhuwei/projects/gitproject/codewarehouse/lineartable/arraytemplate/SeqList.h
 
